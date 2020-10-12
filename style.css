@@ -1,9 +1,10 @@
 body{
-    background-color:#225334;
+    background-color:#22ita5334;
 }
 h1 {
     text-align: center;
     font-style: bold;
     padding-right: 10px;
     font-size: 100px;
+    font-family:italic;
 }
